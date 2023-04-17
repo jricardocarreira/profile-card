@@ -47,7 +47,6 @@ hr {
 
 .card .social-info {
     display: flex;
-    /* Testar/Perguntar sobre a função das duas propriedades abaixo */
     align-items: center;
     justify-content: space-evenly;
     width: 100%;
